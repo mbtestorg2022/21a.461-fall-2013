@@ -30,12 +30,57 @@ We will also use the Financial Crisis of 2008 as an ethnographic "case study" wr
 Grading
 -------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| First Writing Assignment | 20 |
-| Second Writing Assignment | 20 |
-| Final Writing Assignment | 40 |
-| Oral Presentation and Participation in Class Discussion | 20 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+First Writing Assignment
+{{< tdclose >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Second Writing Assignment
+{{< tdclose >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Writing Assignment
+{{< tdclose >}}
+{{< tdopen >}}
+40
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Oral Presentation and Participation in Class Discussion
+{{< tdclose >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 It is possible to get extensions on writing assignments if needed, however, you need to do so at least 24 hours before the due date. Otherwise, late papers will be downgraded a ½ grade for each day overdue.
 
