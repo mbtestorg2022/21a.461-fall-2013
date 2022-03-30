@@ -4,6 +4,7 @@ description: This resource contains information regarding study questions for ma
   and weber.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/21a-461-what-is-capitalism-fall-2013/69e8e9cde1d62b5d8cdbc7bdafff8fd1_MIT21A_461F13_Rd_Qs_Mr_Wb.pdf
 file_type: application/pdf
+parent_uid: d34bfeff-7138-9d50-93cb-1f7899d34696
 resourcetype: Document
 title: 21A.461 What is Capitalism? Study Questions for Marx and Weber
 uid: 69e8e9cd-e1d6-2b5d-8cdb-c7bdafff8fd1

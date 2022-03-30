@@ -4,6 +4,7 @@ description: This resource contains information regarding study questions for ha
   and polanyi.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/21a-461-what-is-capitalism-fall-2013/f2459838983dbe8d44c2b54fe7e06140_MIT21A_461F13_Rd_Qs_Hy_Po.pdf
 file_type: application/pdf
+parent_uid: d34bfeff-7138-9d50-93cb-1f7899d34696
 resourcetype: Document
 title: 21A.461 What is Capitalism? Study Questions for Hayek and Polanyi
 uid: f2459838-983d-be8d-44c2-b54fe7e06140
